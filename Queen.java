@@ -1,7 +1,7 @@
 /**
  * Queen
  *
- * @author Tomas Hagos, 7969147
+ * @author Tomas Hagos
  *
  * REMARKS: This is a subclass of Peice- represents the Queen.
  * Queen has both properties of bishop and rook, and since multiple inheritance is not allowed in Java,

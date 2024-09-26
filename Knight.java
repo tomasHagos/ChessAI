@@ -1,7 +1,7 @@
 /**
  * Knight
  *
- * @author Tomas Hagos, 7969147
+ * @author Tomas Hagos
  *
  * REMARKS: This is a subclass of Peice- represents the Knight
  */

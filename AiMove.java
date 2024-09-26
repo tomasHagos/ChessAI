@@ -1,7 +1,7 @@
 /**
  * AiMove
  *
- * @author Tomas Hagos, 7969147
+ * @author Tomas Hagos
  *
  * REMARKS: This is a subclass of Move. Since the AI returns its move, we need to store a lot more information here.
  */

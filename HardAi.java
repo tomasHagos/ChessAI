@@ -1,7 +1,7 @@
 /**
  * HardAI
  *
- * @author Tomas Hagos, 7969147
+ * @author Tomas Hagos
  *
  * REMARKS: This is a much harder AI. It is very defensive. If a king is going to be captured by a piece
  * it attemps to capture that piece.

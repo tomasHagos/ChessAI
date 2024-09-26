@@ -2,7 +2,7 @@
 /**
  * Easy AI
  *
- * @author Tomas Hagos, 7969147
+ * @author Tomas Hagos
  *
  * REMARKS: It is an easy AI. It just makes random Move.
  */

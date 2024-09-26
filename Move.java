@@ -2,7 +2,7 @@
 /**
  * Move
  *
- * @author Tomas Hagos, 7969147
+ * @author Tomas Hagos
  *
  * REMARKS: This stores general information about an attempted Move. This is used by a human.
  * A subclass of this class is used for the AI.

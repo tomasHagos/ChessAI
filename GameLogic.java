@@ -1,7 +1,7 @@
 /**
  * Game Logic
  *
- * @author Tomas Hagos, 7969147
+ * @author Tomas Hagos
  *
  * REMARKS: This is the game logic class. It is the process all the information
  */

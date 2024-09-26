@@ -1,7 +1,7 @@
 /**
  * AI
  *
- * @author Tomas Hagos, 7969147
+ * @author Tomas Hagos
  *
  * REMARKS: It is an abstract class that has common properties for the two AI's.
  */

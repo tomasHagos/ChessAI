@@ -1,7 +1,7 @@
 /**
  * Game Display
  *
- * @author Tomas Hagos, 7969147
+ * @author Tomas Hagos
  *
  * REMARKS: This is the game display class. It is task is to display the board and all other informations.
  */
